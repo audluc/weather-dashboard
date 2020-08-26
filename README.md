@@ -6,3 +6,15 @@ Interfaces: HTML, Javascript, API, Bootstrap
 
 The links to the repo:
 https://github.com/audluc/weather-dashboard.git
+https://audluc.github.io/weather-dashboard/
+
+
+
+
+
+
+
+
+
+
+
