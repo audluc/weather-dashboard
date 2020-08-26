@@ -5,3 +5,4 @@ Project description: Build a weather dashboard to include; a city search, a curr
 Interfaces: HTML, Javascript, API, Bootstrap
 
 The links to the repo:
+https://github.com/audluc/weather-dashboard.git
